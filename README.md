@@ -1,0 +1,2 @@
+`<start_es>Juego estilo Snake con generación de laberintos aleatorios. El jugador solo establece la dirección de movimiento de la serpiente, que es continua. El sistema incluye un algoritmo de chequeo para asegurar un camino mínimo resoluble antes de cada nivel. Progresa cruzando puertas.<end_es>`
+`<start_en>Snake-style game with random maze generation. The player only sets the movement direction of the snake, which is continuous. The system includes a checking algorithm to ensure a minimum solvable path before each level. Progress by crossing doors.<end_en>`
